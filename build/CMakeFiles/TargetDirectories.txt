@@ -1,0 +1,7 @@
+/home/Documents/Epitech/tek2/CPP/cpp_indie_studio/build/CMakeFiles/install/strip.dir
+/home/Documents/Epitech/tek2/CPP/cpp_indie_studio/build/CMakeFiles/install/local.dir
+/home/Documents/Epitech/tek2/CPP/cpp_indie_studio/build/CMakeFiles/edit_cache.dir
+/home/Documents/Epitech/tek2/CPP/cpp_indie_studio/build/CMakeFiles/rebuild_cache.dir
+/home/Documents/Epitech/tek2/CPP/cpp_indie_studio/build/CMakeFiles/bomberman.dir
+/home/Documents/Epitech/tek2/CPP/cpp_indie_studio/build/CMakeFiles/list_install_components.dir
+/home/Documents/Epitech/tek2/CPP/cpp_indie_studio/build/CMakeFiles/install.dir
